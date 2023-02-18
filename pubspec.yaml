@@ -1,6 +1,6 @@
 name: dio_http_formatter
 description: A Dio interceptor for pretty printing the HTTP request/response to be printed in the console for easier debugging
-version: 2.1.0
+version: 2.2.0
 repository: https://github.com/assemmarwan/dio_http_formatter
 homepage: https://github.com/assemmarwan/dio_http_formatter
 
@@ -8,8 +8,8 @@ environment:
   sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
-  dio: ^4.0.0
-  logger: ^1.0.0
+  dio: ^5.0.0
+  logger: ^1.1.0
 
 dev_dependencies:
   pedantic: ^1.11.1
